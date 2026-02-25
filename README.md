@@ -4,7 +4,7 @@
 I'm a student at the Silesian University of Technology.
 
 
-### Languages I use(d):
+### Languages and tools I use(d):
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin" title="Kotlin" />
