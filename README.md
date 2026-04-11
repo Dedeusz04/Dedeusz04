@@ -33,4 +33,4 @@ I'm a student at the Silesian University of Technology.
 </p>
 
 ---
- **Contact :** barts040404@gmail.com
+ **Contact :** kepabartosz5@gmail.com
